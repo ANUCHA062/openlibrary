@@ -2,8 +2,9 @@
 name: Question & Discussion
 about: Propose an answerable question
 title: ''
-labels: "Type: Question, Needs: Triage, Needs: Lead, Needs: Community Discussion"
+labels: ''
 assignees: ''
+
 ---
 
 <!-- IMPORTANT: Before posting, be sure to redact or remove sensitive data, such as passwords, secret keys, session cookies, etc. -->

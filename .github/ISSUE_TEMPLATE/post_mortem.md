@@ -2,8 +2,9 @@
 name: Post mortem
 about: Create a report to document an outage or event
 title: ''
-labels: "Type: Post-Mortem, Priority: 0, GJ: Triage Exception"
+labels: ''
 assignees: ''
+
 ---
 
 <!-- IMPORTANT: Before posting, be sure to redact or remove sensitive data, such as passwords, secret keys, session cookies, etc. -->
